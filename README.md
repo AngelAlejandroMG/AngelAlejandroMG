@@ -1,18 +1,12 @@
-## Hi there 👋
+## Angel Alejandro Montes Galvez
 
-<!--
-**AngelAlejandroMG/AngelAlejandroMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Techniques de l'informatique au Collège Marie-Victorin (Montréal).
+À la recherche d'un **stage en développement**.
 
-Here are some ideas to get you started:
+📄 [Voir mon CV](https://github.com/AngelAlejandroMG/AngelAlejandroMG/blob/main/CV_Angel_Montes.pdf)
+🌐 [Mon portfolio](portfolio-angelmontes.netlify.app)
+📧 angel.montes.1908@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AngelAlejandroMG&theme=dark)](https://git.io/streak-stats)
- 
+**Technologies :** Python, Java, C#, JavaScript, TypeScript, HTML, CSS, React
+
+**Langues :** français, espagnol, anglais
